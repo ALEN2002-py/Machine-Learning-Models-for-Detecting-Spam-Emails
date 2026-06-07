@@ -1,6 +1,6 @@
 # Spam Email Detection — ML Classifier Comparison
 
-[![CI](https://github.com/ALEN2002-py/spam-email-detector/actions/workflows/ci.yml/badge.svg)](https://github.com/ALEN2002-py/spam-email-detector/actions/workflows/ci.yml)
+[![CI](https://github.com/ALEN2002-py/Machine-Learning-Models-for-Detecting-Spam-Emails/actions/workflows/ci.yml/badge.svg)](https://github.com/ALEN2002-py/Machine-Learning-Models-for-Detecting-Spam-Emails/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.10%20%7C%203.11-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Dataset: UCI Spambase](https://img.shields.io/badge/Dataset-UCI%20Spambase-orange)](https://archive.ics.uci.edu/dataset/94/spambase)
